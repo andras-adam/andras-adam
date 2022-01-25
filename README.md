@@ -5,7 +5,7 @@ I'm **András** Ádám, a full-stack software developer currently living in Hels
 ## This is me
 - ⚡ I'm working as a full-stack developer @ Reactron Technologies Ltd.
 - 🔭 I'm using TypeScript, React, React Native and Express
-- 🌱 I'm learning AWS, and native Android in Kotlin
+- 🌱 I'm learning Cloudflare and Solidity
 - 🎓 I'm studying IT @ Metropolia University of Applied Sciences
 
 ## Get in touch
