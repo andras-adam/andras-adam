@@ -1,17 +1,21 @@
-### Hello there 👋
+### Hello there 👋🏻
 
 I'm **András** Ádám, a full-stack software developer currently living in Helsinki 🇫🇮. Devout developer 💻, gamer 🎮, and metalhead 🎸.
 
-## This is me
-- ⚡ I'm working as a full-stack developer @ Reactron Technologies Ltd.
-- 🔭 I'm using TypeScript, React, React Native and Express
-- 🌱 I'm learning Cloudflare and Solidity
-- 🎓 I'm studying IT @ Metropolia University of Applied Sciences
+## What I work with
+- ⚡ JS/TS, React (Native), Node.js, AWS and Cloudflare Workers
 
-## Get in touch
-- 📬 LinkedIn: [linkedin.com/in/andras-adam](https://www.linkedin.com/in/andras-adam/)
-- 📧 Email: [andras.adam@reactron.dev](mailto:andras.adam@reactron.dev)
-- ☕ Buy me a coffee: [buymeacoffee.com/neoaren](https://www.buymeacoffee.com/neoaren)
+## What I'm working on
+- ☄️ [Comet][comet-url]: a convenient declarative-style routing library for Cloudflare Workers
+- 🖼️ [worker.place][worker-place-url]: an r/place inspired platform submitted for the Cloudflare 2022 Spring Developer Challenge
+- 📒 [ERC20T2][erc20t2-url]: an ERC-20 fungible token deployed to the Kovan testnet tradable through Uniswap
 
-## 📈 My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=neoaren&count_private=true&theme=tokyonight&showicons=true)]()
+## Where to reach me
+- 📬 LinkedIn: [linkedin.com/in/andras-adam][linkedin-url]
+- ☕ Buy me a coffee: [buymeacoffee.com/neoaren][buymeacoffee-url]
+
+[comet-url]: https://github.com/NeoAren/comet
+[worker-place-url]: https://github.com/worker-place/worker-place
+[erc20t2-url]: https://github.com/NeoAren/ERC20T2
+[linkedin-url]: https://www.linkedin.com/in/andras-adam
+[buymeacoffee-url]: https://www.buymeacoffee.com/neoaren
