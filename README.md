@@ -1,12 +1,14 @@
 ### Hello there 👋🏻
 
-I'm **András** Ádám, a full-stack software developer currently living in Helsinki 🇫🇮. Devout developer 💻, gamer 🎮, and metalhead 🎸.
+I'm **András**, a full-stack software developer with experience in cloud solutions and mobile development.
 
 ## What I work with
-- ⚡ JS/TS, React (Native), Node.js, AWS and Cloudflare Workers
+- ☁️ TypeScript, Cloudflare Workers, Node.js, Amazon Web Services
+- 🖥️ React + Next
+- 📱 React Native + Expo
 
 ## What I'm working on
-- ☄️ [Comet][comet-url]: a convenient declarative-style routing library for Cloudflare Workers
+- ☄️ [Comet][comet-url]: a powerful DX-first routing library for Cloudflare Workers
 - 🖼️ [worker.place][worker-place-url]: an r/place inspired platform submitted for the Cloudflare 2022 Spring Developer Challenge
 - 📒 [ERC20T2][erc20t2-url]: an ERC-20 fungible token deployed to the Kovan testnet tradable through Uniswap
 
