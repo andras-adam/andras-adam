@@ -4,7 +4,7 @@ I'm **András**, a full-stack software developer with experience in cloud soluti
 
 ## What I work with
 - ☁️ TypeScript, Cloudflare Workers, Node.js, Amazon Web Services
-- 🖥️ React + Next
+- 🖥️ React
 - 📱 React Native + Expo
 
 ## What I'm working on
@@ -14,9 +14,9 @@ I'm **András**, a full-stack software developer with experience in cloud soluti
 - 📒 [ERC20T2][erc20t2-url]: an ERC-20 fungible token deployed to the Kovan testnet tradable through Uniswap
 
 ## Hackathon projects
-- 🧙‍♂️ [Motion Potion](motion-potion-url): submitted for Huawei's _Sense the motion_ challenge at **Junction 2023**
-- 🛒 [SavEat](saveat-url): submitted for Wolt's _Better cities. Delivered._ challenge at **Junction 2022**
-- 🖼️ [worker.place](worker-place-url): submitted for **Cloudflare Developer Challenge 2022**
+- 🧙‍♂️ [Motion Potion][motion-potion-url]: submitted for Huawei's _Sense the motion_ challenge at **Junction 2023**
+- 🛒 [SavEat][saveat-url]: submitted for Wolt's _Better cities. Delivered._ challenge at **Junction 2022**
+- 🖼️ [worker.place][worker-place-url]: submitted for **Cloudflare Developer Challenge 2022**
 
 ## Reach out
 - 📬 LinkedIn: [linkedin.com/in/andras-adam][linkedin-url]
