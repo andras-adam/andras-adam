@@ -3,14 +3,15 @@
 I'm **András**, a full-stack software developer with experience in cloud solutions and mobile development.
 
 ## What I work with
-- ☁️ TypeScript, Cloudflare Workers, Node.js, Amazon Web Services
+- ⌨️ TypeScript
+- ☁️ Cloudflare Workers, Node.js, Amazon Web Services
 - 🖥️ React
 - 📱 React Native + Expo
 
 ## What I'm working on
 - ☄️ [Comet][comet-url]: a powerful DX-first routing library for Cloudflare Workers
 
-## Fun projects
+## Experiments
 - 📒 [ERC20T2][erc20t2-url]: an ERC-20 fungible token deployed to the Kovan testnet tradable through Uniswap
 
 ## Hackathon projects
