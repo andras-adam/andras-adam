@@ -23,10 +23,10 @@ I'm **András**, a full-stack software developer with experience in cloud soluti
 - 📬 LinkedIn: [linkedin.com/in/andras-adam][linkedin-url]
 - ☕ Buy me a coffee: [buymeacoffee.com/neoaren][buymeacoffee-url]
 
-[comet-url]: https://github.com/NeoAren/comet
-[erc20t2-url]: https://github.com/NeoAren/ERC20T2
-[motion-potion-url]: https://github.com/neoaren/motion-potion
-[saveat-url]: https://github.com/neoaren/saveat
+[comet-url]: https://github.com/andras-adam/comet
+[erc20t2-url]: https://github.com/andras-adam/ERC20T2
+[motion-potion-url]: https://github.com/andras-adam/motion-potion
+[saveat-url]: https://github.com/andras-adam/saveat
 [worker-place-url]: https://github.com/worker-place/worker-place
 [linkedin-url]: https://www.linkedin.com/in/andras-adam
 [buymeacoffee-url]: https://www.buymeacoffee.com/neoaren
